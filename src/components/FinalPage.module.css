@@ -1,0 +1,24 @@
+.container{
+    height: 60Vh;
+    margin-top: 4.5%;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ctn{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+footer{
+    margin-left: 8.2%;
+    margin-right: 8.2%;
+    border-top: 2px solid rgb(179, 177, 177);
+    display: flex;
+    justify-content: space-between;
+    color: rgb(148, 148, 148);
+}
+.footerctx{
+    width: 50%;
+}

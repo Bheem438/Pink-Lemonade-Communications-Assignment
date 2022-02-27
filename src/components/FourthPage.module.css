@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&family=PT+Serif&display=swap");
+.container {
+  height: 110vh;
+  font-family: "Poppins", sans-serif;
+  font-family: "PT Serif", serif;
+  font-family: "Nunito Sans", sans-serif;
+  font-family: "PT Serif", serif;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5%;
+  font-size: 36px;
+}
+.about {
+  margin: 0 17%;
+  height: 864px;
+  width: 1054px;
+}
+.founder {
+  display: flex;
+  justify-content: space-evenly;
+}
+.founder img {
+  object-fit: cover;
+  height: 305px;
+  width: 305px;
+}
+.founder div {
+  padding-left: 2%;
+  margin-right: 11%;
+  background-color: rgba(0, 0, 0, 0);
+}
+.content1{
+  padding-top: 4.5%;
+}
+.cofounder {
+  display: flex;
+  justify-content: space-evenly;
+}
+.content2 {
+  padding-top: 7%;
+  padding-right: 3.5%;
+}
+.cofounder img {
+  height: 305px;
+  width: 305px;
+  padding-right: 40px;
+}
+.about b{
+  font-size: 35px;
+}
+.about span{
+  font-style: italic;
+  font-size: 25px;
+}

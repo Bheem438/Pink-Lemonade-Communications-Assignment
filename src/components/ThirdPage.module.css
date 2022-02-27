@@ -1,0 +1,35 @@
+.container {
+  min-height: 30vh;
+  background-color: #32483f;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+  color: #ffff;
+  font-style: normal;
+}
+.icons img {
+  height: 56px;
+  width: 56px;
+}
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+.icons strong {
+  color: #63c697;
+  font-size: 48px;
+}
+.icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.icon img {
+  padding-left: 12%;
+}
+.text {
+  color: #ffff;
+  padding-left: 12%;
+}

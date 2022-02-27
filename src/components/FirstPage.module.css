@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&family=Poppins:wght@600&family=Quicksand:wght@300&display=swap");
+.container {
+  height: 90vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-left: 8%;
+}
+.leftside {
+  font-size: 38px;
+  letter-spacing: -1px;
+  display: flex;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  font-family: "PT Serif", serif;
+  font-family: "Quicksand", sans-serif;
+}
+strong {
+  font-weight: 500;
+  font-size: 140%;
+  font-family: "PT Serif", serif;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+.image1 {
+  height: 40em;
+  position: relative;
+  right: -1%;
+}
