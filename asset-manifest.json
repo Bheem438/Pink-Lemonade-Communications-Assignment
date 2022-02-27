@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Pink-Lemonade-Communications-Assignment/static/css/main.805d070f.css",
+    "main.js": "/Pink-Lemonade-Communications-Assignment/static/js/main.112523a9.js",
+    "static/media/Assign.png": "/Pink-Lemonade-Communications-Assignment/static/media/Assign.7b2eb4865b4b1973d1d1.png",
+    "static/media/Assign2.png": "/Pink-Lemonade-Communications-Assignment/static/media/Assign2.c7e9d221086fa315a594.png",
+    "static/media/founder.png": "/Pink-Lemonade-Communications-Assignment/static/media/founder.7049ace985d3d6ad0596.png",
+    "static/media/coFounder.png": "/Pink-Lemonade-Communications-Assignment/static/media/coFounder.c727183aed0ffadf49b4.png",
+    "static/media/mobile.png": "/Pink-Lemonade-Communications-Assignment/static/media/mobile.ad6d06a92761a1be2bbe.png",
+    "static/media/circle.png": "/Pink-Lemonade-Communications-Assignment/static/media/circle.8dcc3efec036bbc0467c.png",
+    "index.html": "/Pink-Lemonade-Communications-Assignment/index.html",
+    "main.805d070f.css.map": "/Pink-Lemonade-Communications-Assignment/static/css/main.805d070f.css.map",
+    "main.112523a9.js.map": "/Pink-Lemonade-Communications-Assignment/static/js/main.112523a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805d070f.css",
+    "static/js/main.112523a9.js"
+  ]
+}
